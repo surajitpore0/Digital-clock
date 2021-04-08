@@ -1,4 +1,4 @@
-# PASS MESSAGE
+# Digital Clock ⏲️
 
 ### Check it out [here](https://surajitpore0.github.io/Digital-clock/)
 
