@@ -1,6 +1,6 @@
 # PASS MESSAGE
 
-### Check it out [here]()
+### Check it out [here](https://surajitpore0.github.io/Digital-clock/)
 
 <img src = "https://forthebadge.com/images/badges/made-with-javascript.svg">
 
